@@ -1,0 +1,5 @@
+# specific file
+times.log
+*.log
+
+**/.vscode
